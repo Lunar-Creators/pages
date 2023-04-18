@@ -16,10 +16,10 @@ lang: en
 timezone: Europe/Moscow
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md 
-logo: /assets/lunarlogo.png
+logo: assets/lunarlogo.png
 # ↓ --------------------------
 
-title: Home | Lunar Creators # the main title
+title: Lunar Creators # the main title
 
 tagline: The home of all Lunar Creators projects. # it will display as the sub-title
 
@@ -81,7 +81,7 @@ theme_mode: dark # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: assets/img/favicons/android-chrome-512x512.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
