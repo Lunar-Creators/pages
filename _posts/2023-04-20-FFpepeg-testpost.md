@@ -44,6 +44,7 @@ And much more. This tool is designed to let people to save time on some tasks
 
 ![I Love FFmpeg](https://raw.githubusercontent.com/Lunar-Creators/FFpepeg/FFmpeg-Batch/assets/iloveffmpeg.png){: w="700" }
 # Available tool functions in v0.9
+
 ### For FFmpeg
 - Presets
    - Converting any mediafile to `Webm` (VP9) `mpeg` (mpeg-1/2) `avi` (Mpeg-4/Xvid) `GIF` 
@@ -62,22 +63,24 @@ And much more. This tool is designed to let people to save time on some tasks
  - ***CONFIGURATORS FOR DIFFERENT CODECS ARE STILL IN DEVELOPMENT***
  - Custom configuration mode, which will simplify the creation of unusual combinations that are not in the presets
  - Commandline Mode
+ 
  > And much more will be added
  
- ### For Yt-Dlp
+### For Yt-Dlp
  - The ability to download a single video/audio, playlist or channel
  - In addition to this, you can download Previews, video descriptions and subtitles with all playlist or channel
  - View all existing formats for download at your link
  - The ability to download exactly the format you need from the available
  - Commandline Mode
  
- ### Note that Yt-dlp has a huge number of supported sites. You can download not only videos from different platforms, but also music, for example from soundcloud. And also whole profiles, or playlists. Check list of supported yt-dlp websites
+**Note that Yt-dlp has a huge number of supported sites. You can download not only videos from different platforms, but also music, for example from soundcloud. And also whole profiles, or playlists. Check list of supported yt-dlp websites**
  
- # Development and plans
- This tool was created for me, but I decided to expand it and show it to everyone to save even more time for people and make their lives easier.
+# Development and plans
+This tool was created for me, but I decided to expand it and show it to everyone to save even more time for people and make their lives easier.
  
- You can support our work, and also offer ideas of your presets and tools that we can add. You can send them to the [issues section](https://github.com/Lunar-Creators/FFpepeg/issues)
- ### Of course, we have some plans, and here are what we would like to announce. Not all of them can be done, but...
+You can support our work, and also offer ideas of your presets and tools that we can add. You can send them to the [issues section](https://github.com/Lunar-Creators/FFpepeg/issues)
+
+### Of course, we have some plans, and here are what we would like to announce. Not all of them can be done, but...
  - [ ] Finally, someday to finish the configurators for different codecs
  - [ ] Add features such as color space selection in the photo converter
  - [x] Don't make this repository abandoned
@@ -89,6 +92,10 @@ And much more. This tool is designed to let people to save time on some tasks
 In the distant future, if the script is needed to someone, I would like to...
  - [ ] **Release a version of the tool with a UI made on Powershell**
  
- ### Thanks to the [FFmpeg](https://ffmpeg.org/) and [Yt-Dlp](https://github.com/yt-dlp/yt-dlp) teams for creating such wonderful command-line programs
- ### Thanks to [7-zip](https://www.7-zip.org/) for the high-quality compression of our releases. Also thanks to the [Powershell Team](https://github.com/PowerShell) for the external Powershell that helps our tool work on Windows 7
- ### :heart_on_fire:
+> Thanks to the [FFmpeg](https://ffmpeg.org/) and [Yt-Dlp](https://github.com/yt-dlp/yt-dlp) teams for creating such wonderful command-line programs
+{: .prompt-info }
+
+> Thanks to [7-zip](https://www.7-zip.org/) for the high-quality compression of our releases. Also thanks to the [Powershell Team](https://github.com/PowerShell) for the external Powershell that helps our tool work on Windows 7
+{: .prompt-info }
+
+:heart_on_fire:
