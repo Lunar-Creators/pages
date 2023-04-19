@@ -1,6 +1,6 @@
 ---
 title: FFmpeg & YT-Dlp batchtool
-author: SHULKERPLAY
+author: <shulkerplay>
 date: 2022-09-10 03:00:00 +0300
 update: 2022-09-17 00:36:59 +0300
 categories: [FFpepeg]
