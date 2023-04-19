@@ -42,7 +42,7 @@ And much more. This tool is designed to let people to save time on some tasks
 - You do not need to specify the file paths manually, with Powershell you can use the file selector
 - Simple presets that are updating and save your time
 
-![I Love FFmpeg](assets/iloveffmpeg.png)
+![I Love FFmpeg](https://raw.githubusercontent.com/Lunar-Creators/FFpepeg/FFmpeg-Batch/assets/iloveffmpeg.png){: w="700" }
 # Available tool functions in v0.9
 ### For FFmpeg
 - Presets
@@ -71,7 +71,7 @@ And much more. This tool is designed to let people to save time on some tasks
  - The ability to download exactly the format you need from the available
  - Commandline Mode
  
- ### Note that Yt-dlp has a huge number of supported sites. You can download not only videos from different platforms, but also music, for example from soundcloud. And also whole profiles, or playlists. [Check list of supported yt-dlp websites](Interface/ShulkerInterfaces/yt-dlp_supportedsites.txt)
+ ### Note that Yt-dlp has a huge number of supported sites. You can download not only videos from different platforms, but also music, for example from soundcloud. And also whole profiles, or playlists. Check list of supported yt-dlp websites
  
  # Development and plans
  This tool was created for me, but I decided to expand it and show it to everyone to save even more time for people and make their lives easier.
