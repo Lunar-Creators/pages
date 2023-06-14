@@ -97,5 +97,3 @@ In the distant future, if the script is needed to someone, I would like to...
 
 > Thanks to [7-zip](https://www.7-zip.org/) for the high-quality compression of our releases. Also thanks to the [Powershell Team](https://github.com/PowerShell) for the external Powershell that helps our tool work on Windows 7
 {: .prompt-info }
-
-:heart_on_fire:
